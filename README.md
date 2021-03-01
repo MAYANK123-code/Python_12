@@ -1,0 +1,2 @@
+# Python_12
+SOME GLIMPSES OF PYTHON projects
